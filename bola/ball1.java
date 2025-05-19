@@ -6,7 +6,7 @@ public class ball1 {
         myBall.showColor();
         myBall.showSize();
         myBall.showMoveStatus();
-        myBall.move();
+        myBall.showMoveStatus();
         myBall.showMoveStatus();
         myBall.stop();
         myBall.showMoveStatus();
